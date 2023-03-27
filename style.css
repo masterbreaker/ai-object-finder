@@ -1,0 +1,56 @@
+body{
+    background-size:cover;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.heading{
+    text-shadow:2px 1px 5px rgb(0, 0, 0);
+    margin:0px;
+    width:100%;
+    font-size:24px;
+    box-shadow:10px 8px 10px rgb(0, 0, 0);
+
+}
+
+.p{
+    font-size:17px;
+    color: black;
+}
+
+.title{
+    color: white;
+    font-size:20px;
+
+
+}.footer{
+    position: fixed;
+    width:100%;
+    background-color: black;
+    color: white;
+    bottom:0;
+    text-align: center;
+    line-height:2;
+    font-family:'Franklin Gothic Medium';
+}
+
+canvas{
+    border-radius: 15px;
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+    box-shadow: 5px 5px 5px rgb(0, 0, 0);
+    border-width: 4px;
+    margin-top:100px;
+}
+
+#typehere{
+width:250px;
+height:30px;
+border-radius:25px;
+outline:none;
+border:none;
+}
+
+.title{
+    font-size: 30px;
+    text-shadow:2px 1px 5px rgb(0, 0, 0);
+}
